@@ -1,5 +1,5 @@
-# analog-clock
+# Analog Clock
 Analog Clock, using HTML + JS + CSS
 
-
-Find me on Steam : https://steamcommunity.com/id/iseeface
+# Find Me
+Steam : https://steamcommunity.com/id/iseeface
